@@ -1,0 +1,2 @@
+# Blog
+Chico's blog
